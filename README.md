@@ -98,7 +98,8 @@ The final Docker image was pushed to GitHub and automatically built and hosted o
    ```bash
    docker build -t bd-currency-api .
 
-   ---
+
+---
 
 ## 👤 Author
 
