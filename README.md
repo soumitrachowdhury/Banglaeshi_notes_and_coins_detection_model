@@ -97,3 +97,9 @@ The final Docker image was pushed to GitHub and automatically built and hosted o
 2. Build the Docker image:
    ```bash
    docker build -t bd-currency-api .
+
+   ---
+
+## 👤 Author
+
+Soumitra Chowdhury
