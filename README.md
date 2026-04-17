@@ -1,4 +1,4 @@
-# 🇧🇩 Bangladeshi Currency Detection (End-to-End MLOps Pipeline)
+# Bangladeshi Currency Detection 
 
 ## 📌 Project Overview
 This project is an end-to-end Machine Learning pipeline designed to detect and classify Bangladeshi currency from images. 
